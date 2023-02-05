@@ -1,0 +1,12 @@
+/home/firas/Documents/workhole/spoilMe/SpoilMe/integration-tests/target/debug/deps/xattr-8d91520ce042276b.rmeta: /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/home/firas/Documents/workhole/spoilMe/SpoilMe/integration-tests/target/debug/deps/libxattr-8d91520ce042276b.rlib: /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/home/firas/Documents/workhole/spoilMe/SpoilMe/integration-tests/target/debug/deps/xattr-8d91520ce042276b.d: /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs:
+/home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs:
+/home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs:
+/home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs:
+/home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs:
+/home/firas/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs:
